@@ -31,16 +31,16 @@
     <tibco.Home></tibco.Home>
     <externalProfile>true</externalProfile>
     <keystorePassword></keystorePassword>
-    <backupLocation></backupLocation>
     <agentPassword></agentPassword>
+    <backupLocation></backupLocation>
     <skipTests>false</skipTests>
-    <appNodeDesc></appNodeDesc>
     <project.type>AppSpace</project.type>
+    <appNodeDesc></appNodeDesc>
     <failIfNoTests>false</failIfNoTests>
     <agentSSL>false</agentSSL>
     <agentUsername></agentUsername>
-    <domain>MyDomain</domain>
     <deployToAdmin>true</deployToAdmin>
+    <domain>MyDomain</domain>
   </properties>
   <build>
     <plugins>

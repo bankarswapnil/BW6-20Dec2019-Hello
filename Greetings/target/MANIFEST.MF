@@ -1,4 +1,4 @@
-Manifest-Version: 1.0.0.202001010115
+Manifest-Version: 1.0.0.202001071423
 Bundle-SymbolicName: Greetings
 Bundle-ManifestVersion: 2
 TIBCO-BW-Edition: bwe
@@ -11,7 +11,7 @@ Require-Capability: com.tibco.bw.model; filter:="(name=bwext)",com.tib
 TIBCO-BW-ConfigProfile: META-INF/default.substvar
 TIBCO-BW-Version: 6.5.0 V63 2018-08-08
 Bundle-Name: Greetings Module
-Bundle-Version: 1.0.0.202001010115
+Bundle-Version: 1.0.0.202001071423
 Bundle-ClassPath: .
 TIBCO-BW-ApplicationModule: META-INF/module.bwm
 TIBCO-BW-JobSharedVariables: META-INF/module.jsv

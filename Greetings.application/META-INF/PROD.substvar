@@ -2,22 +2,6 @@
 <repository xmlns:xsi = "http://www.w3.org/2001/XMLSchema-instance" xmlns = "http://www.tibco.com/xmlns/repo/types/2002">
 	<globalVariables>
 		<globalVariable>
-			<name>HTTPPort</name>
-			<value>8074</value>
-			<deploymentSettable>false</deploymentSettable>
-			<serviceSettable>false</serviceSettable>
-			<type>Integer</type>
-			<isOverride>false</isOverride>
-		</globalVariable>
-		<globalVariable>
-			<name>HTTPHost</name>
-			<value>LUK-5CG8437FP9</value>
-			<deploymentSettable>false</deploymentSettable>
-			<serviceSettable>false</serviceSettable>
-			<type>String</type>
-			<isOverride>false</isOverride>
-		</globalVariable>
-		<globalVariable>
 			<name>//Greetings//BW.DEPLOYMENTUNIT.TYPE</name>
 			<value></value>
 			<deploymentSettable>false</deploymentSettable>
@@ -91,7 +75,7 @@
 		</globalVariable>
 		<globalVariable>
 			<name>//Greetings//HTTPHost</name>
-			<value>%%HTTPHost%%</value>
+			<value>LUK-5CG8437FP9</value>
 			<deploymentSettable>false</deploymentSettable>
 			<serviceSettable>false</serviceSettable>
 			<type>String</type>
@@ -99,7 +83,7 @@
 		</globalVariable>
 		<globalVariable>
 			<name>//Greetings//HTTPPort</name>
-			<value>%%HTTPPort%%</value>
+			<value>8074</value>
 			<deploymentSettable>false</deploymentSettable>
 			<serviceSettable>false</serviceSettable>
 			<type>Integer</type>
