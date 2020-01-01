@@ -3,7 +3,7 @@
 	<globalVariables>
 		<globalVariable>
 			<name>HTTPPort</name>
-			<value>8083</value>
+			<value>8072</value>
 			<deploymentSettable>false</deploymentSettable>
 			<serviceSettable>false</serviceSettable>
 			<type>Integer</type>
